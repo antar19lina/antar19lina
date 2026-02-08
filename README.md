@@ -15,7 +15,6 @@
 🧠 Hands-on Platforms
 TryHackMe • Hack The Box • PortSwigger
 
-📫 LinkedIn: https://linkedin.com/in/antarlina-balmiki
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/antarlina-balmiki-3926b6283/
