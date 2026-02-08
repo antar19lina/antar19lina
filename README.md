@@ -9,8 +9,8 @@
 - Linux & AWS Fundamentals
 
 🚀 Featured Projects
-- Web Vulnerability Scanner → [[link](https://github.com/antar19lina/WEB-VULN-SCAN)
-- Cloud-Based Pentesting Tool → [https://github.com/antar19lina/Cloud-Enabled-Penetration-Testing-Tool-Prototype](https://github.com/antar19lina/Cloud-Enabled-Penetration-Testing-Tool-Prototype)
+- Web Vulnerability Scanner → [[link]](https://github.com/antar19lina/WEB-VULN-SCAN)
+- Cloud-Based Pentesting Tool → [link]](https://github.com/antar19lina/Cloud-Enabled-Penetration-Testing-Tool-Prototype)
 
 🧠 Hands-on Platforms
 TryHackMe • Hack The Box • PortSwigger
