@@ -1,36 +1,38 @@
-Hi, I'm Antarlina Balmiki 👋
+<div align="center">
 
-Cybersecurity-focused Computer Science student passionate about
-Application Security, Secure Coding, and Software Development.
+# Hi, I'm Antarlina Balmiki 👋
 
-I enjoy building tools that help identify vulnerabilities and
-improve software security while strengthening my skills in
-Data Structures, Algorithms, and scalable system design.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity-focused+Computer+Science+student;Passionate+about+Application+Security,+Secure+Coding,+and+Software+Development;Building+tools+to+identify+vulnerabilities+and+improve+security" />
 
-** 🔐 Interests
-```
-• Application Security
-• Penetration Testing
-• Secure Software Development
-• Web Security
-• Product Engineering
-```
-** 🛠 Tech Stack
-```
-• Languages: Python, C++
-• Security: OWASP Top 10, Vulnerability Analysis
-• Tools: Git, Linux, Security Testing Tools
-• Concepts: Data Structures & Algorithms
-```
-📂 Featured Projects
-• WEB-VULN-SCAN – Python-based OWASP vulnerability scanner
-• Secure Password Analyzer
-• Network Port Scanner
-• Web Security Testing Toolkit
+---
 
-🎯 Career Goal
-To build secure and scalable software systems while
-specializing in application security and penetration testing.
+### 🔐 Interests
 
-📫 Connect
-LinkedIn: (your LinkedIn link)
+• Application Security  
+• Penetration Testing  
+• Secure Software Development  
+• Web Security  
+• Product Engineering  
+
+---
+
+### 🛠 Tech Stack
+
+• **Languages:** Python, C++  
+• **Security:** OWASP Top 10, Vulnerability Analysis  
+• **Tools:** Git, Linux, Security Testing Tools  
+• **Concepts:** Data Structures & Algorithms  
+
+---
+
+### 🎯 Career Goal
+
+To build secure and scalable software systems while specializing in application security and penetration testing.
+
+---
+
+### 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
+
+</div>
