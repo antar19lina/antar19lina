@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Antarlina Balmiki</h1>
-<h3 align="center">Cyber Security Enthusiast | Ethical Hacker | SOC Analyst Aspirant</h3>
+Hi, I'm Antarlina Balmiki 👋
 
----
-🔐 Interests
-- Web Application Security
-- Vulnerability Research
-- Security Automation with Python
-- Linux & AWS Fundamentals
+Cybersecurity-focused Computer Science student passionate about
+Application Security, Secure Coding, and Software Development.
 
-🚀 Featured Projects
-- Web Vulnerability Scanner → [[link]](https://github.com/antar19lina/WEB-VULN-SCAN)
-- Cloud-Based Pentesting Tool → [[link]](https://github.com/antar19lina/Cloud-Enabled-Penetration-Testing-Tool-Prototype)
+I enjoy building tools that help identify vulnerabilities and
+improve software security while strengthening my skills in
+Data Structures, Algorithms, and scalable system design.
 
-🧠 Hands-on Platforms
-TryHackMe • Hack The Box • PortSwigger
+** 🔐 Interests
+```
+• Application Security
+• Penetration Testing
+• Secure Software Development
+• Web Security
+• Product Engineering
+```
+** 🛠 Tech Stack
+```
+• Languages: Python, C++
+• Security: OWASP Top 10, Vulnerability Analysis
+• Tools: Git, Linux, Security Testing Tools
+• Concepts: Data Structures & Algorithms
+```
+📂 Featured Projects
+• WEB-VULN-SCAN – Python-based OWASP vulnerability scanner
+• Secure Password Analyzer
+• Network Port Scanner
+• Web Security Testing Toolkit
 
+🎯 Career Goal
+To build secure and scalable software systems while
+specializing in application security and penetration testing.
 
-### 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/antarlina-balmiki-3926b6283/
-- 📧 Email: balmikiantarlina19@gmail.com
-
----
-
-⚠️ **Disclaimer:**  
-All tools and scripts are built strictly for **educational and authorized security testing only**.
+📫 Connect
+LinkedIn: (your LinkedIn link)
