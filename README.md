@@ -4,6 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity-focused+Computer+Science+student;Passionate+about+Application+Security,+Secure+Coding,+and+Software+Development;Building+tools+to+identify+vulnerabilities+and+improve+security" />
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Domain](https://img.shields.io/badge/Domain-Cybersecurity-red)
+![Focus](https://img.shields.io/badge/Focus-Application%20Security-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
+---
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=antar19lina&label=Project+Views&color=0e75b6&style=flat" />
+</p>
+
 </div>
 
 ---
