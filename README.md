@@ -3,7 +3,7 @@
 # Hi, I'm Antarlina Balmiki 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cybersecurity-focused+Computer+Science+student;Passionate+about+Application+Security,+Secure+Coding,+and+Software+Development;Building+tools+to+identify+vulnerabilities+and+improve+security" />
-
+</div>
 ---
 
 ### 🔐 Interests
@@ -33,6 +33,5 @@ To build secure and scalable software systems while specializing in application 
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)]([your-linkedin-url](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
 
-</div>
