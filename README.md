@@ -48,3 +48,8 @@ To build secure and scalable software systems while specializing in application 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=antar19lina&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar19lina&layout=compact&theme=tokyonight" />
+
