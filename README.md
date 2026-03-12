@@ -30,12 +30,12 @@
 ---
 
 ### 🛠 Tech Stack
-```
+
 • **Languages:** Python, C++  
 • **Security:** OWASP Top 10, Vulnerability Analysis  
 • **Tools:** Git, Linux, Security Testing Tools  
 • **Concepts:** Data Structures & Algorithms  
-```
+
 ---
 
 ### 🎯 Career Goal
