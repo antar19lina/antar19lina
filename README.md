@@ -25,16 +25,16 @@
 
 ### 🛠 Tech Stack
 
-+ Security: Web Application Security, Vulnerability Assessment, OWASP Top 10, Security Headers Analysis, VAPT
-Methodology
-+ Security Frameworks: NIST Cybersecurity Framework, ISO 27001 (ISMS Fundamentals), CIS Security Controls
-+ Networking: TCP/IP, DNS, HTTP/HTTPS, Network Fundamentals
-+ Security Tools: Nmap, Burp Suite, Metasploit, OWASP ZAP, Wireshark, PortSwigger Labs
-+ Platforms & Labs: TryHackMe, Linux, Git, GitHub
-+ Programming: Python, C/C++, JavaScript, SQL
-+ Full-Stack: React.js, Node.js, Express.js, REST APIs, Authentication
-+ Cloud / DevOps: AWS (EC2, S3), Docker, IAM, CI/CD Pipelines (Basic)  
-
+| Category                | Skills |
+|------------------------|--------|
+| 🔐 Security            | Web Application Security, Vulnerability Assessment (VAPT), OWASP Top 10, Security Headers Analysis |
+| 📜 Frameworks          | NIST Cybersecurity Framework, ISO 27001 (ISMS Fundamentals), CIS Security Controls |
+| 🌐 Networking          | TCP/IP, DNS, HTTP/HTTPS, Network Fundamentals |
+| 🧰 Security Tools      | Nmap, Burp Suite, Metasploit, OWASP ZAP, Wireshark, PortSwigger Labs |
+| 🧪 Platforms & Labs    | TryHackMe, Linux, Git, GitHub |
+| 💻 Programming         | Python, C/C++, JavaScript, SQL |
+| 🌍 Full-Stack          | React.js, Node.js, Express.js, REST APIs, Authentication |
+| ☁️ Cloud & DevOps      | AWS (EC2, S3, IAM), Docker, CI/CD Pipelines (Basic) |
 ---
 
 ### 🎯 Career Goal
