@@ -16,11 +16,13 @@
 </p>
 
 </div>
-<div>
----
-| 🔐 Application Security | Cybersecurity Engineer | DLP & Cloud Security |
----
+<div align="center">
+
+| 🔐 Application Security | 🛡️ Cybersecurity Engineer | 📂 DLP | ☁️ Cloud Security |
+|------------------------|--------------------------|--------|------------------|
+
 </div>
+
 ### 🛠 Tech Stack
 
 + Security: Web Application Security, Vulnerability Assessment, OWASP Top 10, Security Headers Analysis, VAPT
