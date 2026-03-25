@@ -53,3 +53,5 @@ To build secure and scalable software systems while specializing in application 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.balmikiantarlina19@gmail.com)
 
 </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antar19lina&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=antar19lina&theme=tokyonight" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=antar19lina&theme=tokyo-night" /> </div>
