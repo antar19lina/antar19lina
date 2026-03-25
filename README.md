@@ -51,10 +51,14 @@ To build secure and scalable software systems while specializing in application 
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
+## 📞 Connect
 
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=antar19lina&show_icons=true&theme=tokyonight" />
+💼 Open to opportunities in **Security Engineering / DevSecOps**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar19lina&layout=compact&theme=tokyonight" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antarlina-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
+[![GitHub](https://img.shields.io/badge/GitHub-antar19lina-181717?style=for-the-badge&logo=github)](https://github.com/antar19lina)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.balmikiantarlina19@gmail.com)
 
+</div>
