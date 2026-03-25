@@ -45,11 +45,8 @@ To build secure and scalable software systems while specializing in application 
 
 ### 📫 Connect
 
-## 📞 Connect
 
 <div align="center">
-
-💼 Open to opportunities in **Security Engineering / DevSecOps**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Antarlina-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antarlina-balmiki-3926b6283/)
 [![GitHub](https://img.shields.io/badge/GitHub-antar19lina-181717?style=for-the-badge&logo=github)](https://github.com/antar19lina)
